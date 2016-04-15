@@ -3,4 +3,4 @@
 	url = https://github.com/LouckSitskoorn/Website
 [submodule "framework"]
 	path = framework
-	url = https://github.com/LouckSitskoorn/Website
+	url = https://github.com/LouckSitskoorn/Framework
